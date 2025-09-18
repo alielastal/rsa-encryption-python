@@ -1,5 +1,7 @@
 # RSA Text Encryption and Decryption (Pure Python)
 
+![Banner](banner.png)
+
 This is a simple Python implementation of the RSA encryption and decryption algorithm. The app allows you to:
 - Encrypt and decrypt text using RSA keys.
 - Generate RSA keys (public and private).
