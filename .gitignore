@@ -1,0 +1,30 @@
+# Python-specific
+*.pyc
+*.pyo
+__pycache__/
+*.pdb
+*.swp
+
+# Virtual Environment
+venv/
+env/
+
+# Streamlit
+*.streamlit/
+
+# IDE settings (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating system specific
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Test data, log files
+*.log
+*.csv
+*.tsv
+*.json
